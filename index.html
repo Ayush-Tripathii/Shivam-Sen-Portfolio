@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shivam Sen — Visual Storyteller</title>
+  <meta name="description" content="Shivam Sen is a professional photographer and filmmaker specialising in cinematic portraits, childhood milestones, product photography, and short films." />
+  <meta property="og:title" content="Shivam Sen — Visual Storyteller" />
+  <meta property="og:description" content="Photography is not a picture. It is a feeling, preserved." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/assets/images/hero-poster.webp" />
+  <meta name="theme-color" content="#0d0d0d" />
+  <!-- Preload hero poster -->
+  <link rel="preload" as="image" href="assets/images/hero-poster.webp" fetchpriority="high" />
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📷</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&family=DM+Sans:ital,opsz,wght@0,9..40,200;0,9..40,300;0,9..40,400;1,9..40,300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+
+<!-- LOADER -->
+<div id="loader" class="loader" aria-hidden="true">
+  <div class="loader__inner">
+    <div class="loader__name">
+      <span class="loader__first">Shivam</span>
+      <span class="loader__last">Sen</span>
+    </div>
+    <div class="loader__bar"><div class="loader__bar-fill"></div></div>
+  </div>
+</div>
+
+<!-- CUSTOM CURSOR -->
+<div id="cursor" class="cursor" aria-hidden="true">
+  <div class="cursor__dot"></div>
+  <div class="cursor__ring"></div>
+  <div class="cursor__label"></div>
+</div>
+
+<!-- NAVIGATION -->
+<nav class="nav" id="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav__logo">
+    <a href="#hero" class="nav__logo-link" aria-label="Shivam Sen — home">
+      <span class="nav__logo-first">S</span><span class="nav__logo-last">S</span>
+    </a>
+  </div>
+  <button class="nav__menu-toggle" id="navToggle" aria-expanded="false" aria-controls="navLinks" aria-label="Toggle navigation">
+    <span></span><span></span>
+  </button>
+  <ul class="nav__links" id="navLinks" role="list">
+    <li><a href="#work" class="nav__link" data-cursor="EXPLORE">Work</a></li>
+    <li><a href="#project-documentary" class="nav__link" data-cursor="STUDY">Documentary</a></li>
+    <li><a href="#films" class="nav__link" data-cursor="WATCH">Films &amp; Reels</a></li>
+    <li><a href="#about" class="nav__link" data-cursor="MEET">About</a></li>
+    <li><a href="#contact" class="nav__link" data-cursor="CONNECT">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section id="hero" class="hero section" aria-label="Hero — full screen showcase">
+  <div class="hero__image-wrap">
+    <video
+      class="hero__video"
+      autoplay
+      muted
+      loop
+      playsinline
+      preload="metadata"
+      poster="assets/images/hero-poster.webp"
+      aria-label="Shivam Sen visual showcase"
+    >
+      <source src="assets/videos/hero.mp4" type="video/mp4" />
+    </video>
+    <div class="hero__overlay"></div>
+  </div>
+  <div class="hero__content">
+    <p class="hero__eyebrow reveal-text">Visual Storyteller</p>
+    <h1 class="hero__title">
+      <span class="hero__title-line">Shivam</span>
+      <span class="hero__title-line">Sen</span>
+    </h1>
+    <p class="hero__sub reveal-text">Photography &amp; Film — India</p>
+  </div>
+  <div class="hero__scroll" aria-hidden="true">
+    <div class="hero__scroll-line"></div>
+    <span class="hero__scroll-label">Scroll</span>
+  </div>
+</section>
+
+<!-- INTRO STATEMENT -->
+<section class="intro section" aria-label="Artistic statement">
+  <div class="intro__inner">
+    <p class="intro__quote reveal-lines" aria-label="Artistic statement: Photography is not a picture. It is a feeling, preserved.">
+      Photography is not a picture.<br/>It is a feeling,<em>&nbsp;preserved.</em>
+    </p>
+  </div>
+</section>
+
+<!-- WORK / PORTFOLIO -->
+<section id="work" class="work section" aria-label="Portfolio — photographic series">
+  <div class="work__header">
+    <span class="work__label eyebrow reveal-text">Selected Work</span>
+    <h2 class="work__title reveal-lines">Stories in Light</h2>
+  </div>
+
+  <!-- PROJECT 1 — CHILDHOOD -->
+  <article class="project" id="project-childhood" data-project="childhood" aria-label="Photography series: Childhood — Sia &amp; Kia">
+    <div class="project__intro">
+      <div class="project__meta">
+        <span class="project__number eyebrow">01</span>
+        <span class="project__category eyebrow">Portraiture</span>
+      </div>
+      <h3 class="project__title reveal-lines">Childhood</h3>
+      <p class="project__desc reveal-text">Every blink holds a universe. A series celebrating the fleeting, luminous days of early childhood, captured in warm window light and unguarded moments.</p>
+    </div>
+
+    <!-- Editorial Grid -->
+    <div class="project__grid project__grid--childhood">
+      <figure class="project__fig project__fig--hero" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/baby-shoot/baby-08-sm.webp" />
+            <source media="(max-width:1200px)" srcset="assets/images/baby-shoot/baby-08-md.webp" />
+            <img src="assets/images/baby-shoot/baby-08-lg.webp" alt="Two young girls share a tender moment" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="0" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--portrait" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/baby-shoot/baby-01-sm.webp" />
+            <img src="assets/images/baby-shoot/baby-01-md.webp" alt="Infant laughing in sunlight, dressed in teal ruffles" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="1" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--landscape" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/baby-shoot/baby-04-sm.webp" />
+            <img src="assets/images/baby-shoot/baby-04-md.webp" alt="Child reaching upward in golden afternoon light" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="2" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--small" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/baby-shoot/baby-05-md.webp" alt="A baby's tiny hands" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="3" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--small" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/baby-shoot/baby-09-md.webp" alt="Toddler exploring the garden" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="4" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--wide" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/baby-shoot/baby-10-sm.webp" />
+            <img src="assets/images/baby-shoot/baby-10-md.webp" alt="Family moment — warmth and love" loading="lazy" decoding="async" class="project__img" data-lightbox="childhood" data-index="5" />
+          </picture>
+        </div>
+      </figure>
+    </div>
+
+    <div class="project__view-all">
+      <button class="btn-ghost" data-open-gallery="childhood" aria-label="View all 45 Childhood series photographs">
+        <span>View All 45 Works</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M1 7h12M7 1l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </article>
+
+  <!-- PROJECT 2 — CELEBRATIONS -->
+  <article class="project project--alt" id="project-celebrations" data-project="celebrations" aria-label="Photography series: Celebrations &amp; Milestones">
+    <div class="project__intro">
+      <div class="project__meta">
+        <span class="project__number eyebrow">02</span>
+        <span class="project__category eyebrow">Events</span>
+      </div>
+      <h3 class="project__title reveal-lines">Celebrations</h3>
+      <p class="project__desc reveal-text">Birthdays mark the passage of time — but they also preserve forever the people who gathered, the way the light fell, and the joy that filled a room.</p>
+    </div>
+
+    <div class="project__grid project__grid--celebrations">
+      <!-- Panoramic Feature -->
+      <figure class="project__fig project__fig--panoramic" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/birthday/bday-11-sm.webp" />
+            <source media="(max-width:1200px)" srcset="assets/images/birthday/bday-11-md.webp" />
+            <img src="assets/images/birthday/bday-11-lg.webp" alt="The whole family, frozen in a perfect second" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="0" />
+          </picture>
+        </div>
+      </figure>
+      <!-- Duo Feature -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/birthday/bday-06-sm.webp" />
+            <img src="assets/images/birthday/bday-06-md.webp" alt="Grandparents holding a one-year-old at his birthday celebration" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="1" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/birthday/bday-04-md.webp" alt="Child reaching for the birthday cake" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="2" />
+          </picture>
+        </div>
+      </figure>
+      <!-- Trio Row -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/birthday/bday-09-md.webp" alt="Birthday celebration with warm ambient light" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="3" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/birthday/bday-01-md.webp" alt="Celebratory decorations" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="4" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/birthday/bday-07-md.webp" alt="Family gathered around candlelight" loading="lazy" decoding="async" class="project__img" data-lightbox="celebrations" data-index="5" />
+          </picture>
+        </div>
+      </figure>
+    </div>
+
+    <div class="project__view-all">
+      <button class="btn-ghost" data-open-gallery="celebrations" aria-label="View all 73 Celebrations series photographs">
+        <span>View All 73 Works</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M1 7h12M7 1l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </article>
+
+  <!-- PROJECT 3 — PRODUCT -->
+  <article class="project" id="project-product" data-project="product" aria-label="Photography series: Product & Commercial">
+    <div class="project__intro">
+      <div class="project__meta">
+        <span class="project__number eyebrow">03</span>
+        <span class="project__category eyebrow">Commercial</span>
+      </div>
+      <h3 class="project__title reveal-lines">Objects in Focus</h3>
+      <p class="project__desc reveal-text">Products have a personality. The challenge — and the joy — is finding exactly the angle, light, and breath of space that lets it speak for itself.</p>
+    </div>
+
+    <div class="project__grid project__grid--product">
+      <figure class="project__fig project__fig--product-hero" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/product/prod-07-sm.webp" />
+            <source media="(max-width:1200px)" srcset="assets/images/product/prod-07-md.webp" />
+            <img src="assets/images/product/prod-07-lg.webp" alt="Nike shoe on warm amber background — product photography" loading="lazy" decoding="async" class="project__img" data-lightbox="product" data-index="0" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--product-a" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/product/prod-06-md.webp" alt="Watch product photography — elegant composition" loading="lazy" decoding="async" class="project__img" data-lightbox="product" data-index="1" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--product-b" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/product/prod-02-md.webp" alt="Product detail shot" loading="lazy" decoding="async" class="project__img" data-lightbox="product" data-index="2" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--product-c" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/product/prod-04-md.webp" alt="Commercial product isolated on clean background" loading="lazy" decoding="async" class="project__img" data-lightbox="product" data-index="3" />
+          </picture>
+        </div>
+      </figure>
+    </div>
+
+    <div class="project__view-all">
+      <button class="btn-ghost" data-open-gallery="product" aria-label="View all 16 product photographs">
+        <span>View All 16 Works</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M1 7h12M7 1l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </article>
+
+  <!-- PROJECT 4 — VISUAL RESEARCH & DOCUMENTARIES (S.V. Polytechnic College Bhopal) -->
+  <article class="project project--alt" id="project-documentary" data-project="documentary" aria-label="Visual Research & Documentary Photography">
+    <div class="project__intro">
+      <div class="project__meta">
+        <span class="project__number eyebrow">04</span>
+        <span class="project__category eyebrow">Academic &amp; Field Studies</span>
+      </div>
+      <h3 class="project__title reveal-lines">Documentary Studies</h3>
+      <p class="project__desc reveal-text">Department of Film Technology &amp; T.V Production (S.V. Polytechnic Bhopal) — An in-depth exploration across 11 photographic disciplines including Street, Candid, Long Exposure, Skyscapes, and Night Studies.</p>
+    </div>
+
+    <div class="project__grid project__grid--documentary">
+      <!-- 1. Street Photography -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/documentary-webp/doc-01-sm.webp" />
+            <source media="(max-width:1200px)" srcset="assets/images/documentary-webp/doc-01-md.webp" />
+            <img src="assets/images/documentary-webp/doc-01-lg.webp" alt="Street Photography — Spices vendor in marketplace" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="0" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Street Photography</span>
+          <span class="project__fig-badge-exif">Canon EOS 200D · 109mm · f/5 · 1/200s · ISO 200</span>
+        </div>
+      </figure>
+
+      <!-- 2. Candid Monk -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/documentary-webp/doc-03-sm.webp" />
+            <img src="assets/images/documentary-webp/doc-03-md.webp" alt="Candid Photography — Joyful sadhu monk" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="2" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Candid Portrait</span>
+          <span class="project__fig-badge-exif">Canon EOS 200D · 55mm · f/4.5 · 1/125s · ISO 200</span>
+        </div>
+      </figure>
+
+      <!-- 3. Nature Butterfly -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/documentary-webp/doc-05-md.webp" alt="Nature Photography — Monarch butterfly" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="4" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Nature Study</span>
+          <span class="project__fig-badge-exif">Canon EOS 200D · 24mm · f/5 · 1/200s · ISO 200</span>
+        </div>
+      </figure>
+
+      <!-- 4. Silhouette -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/documentary-webp/doc-08-md.webp" alt="Silhouette Photography — Figure suspended in sky" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="7" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Silhouette Study</span>
+          <span class="project__fig-badge-exif">Canon EOS 200D · 18mm · f/9 · 1/250s · ISO 200</span>
+        </div>
+      </figure>
+
+      <!-- 5. Still Life Desk -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/documentary-webp/doc-07-md.webp" alt="Still Life — 'You Can' journal flatlay" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="6" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Still Life Flatlay</span>
+          <span class="project__fig-badge-exif">Sony Alpha 7 M3 · 37mm · f/11 · 1/30s · ISO 250</span>
+        </div>
+      </figure>
+
+      <!-- 6. Long Exposure Train Blur (Panoramic Wide) -->
+      <figure class="project__fig" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/documentary-webp/doc-11-sm.webp" />
+            <source media="(max-width:1200px)" srcset="assets/images/documentary-webp/doc-11-md.webp" />
+            <img src="assets/images/documentary-webp/doc-11-lg.webp" alt="Long Exposure — Speeding train blur at platform" loading="lazy" decoding="async" class="project__img" data-lightbox="documentary" data-index="10" />
+          </picture>
+        </div>
+        <div class="project__fig-badge">
+          <span class="project__fig-badge-title">Long Exposure Motion</span>
+          <span class="project__fig-badge-exif">Canon EOS 200D · 24mm · f/22 · 8.0s · ISO 100</span>
+        </div>
+      </figure>
+    </div>
+
+    <div class="project__view-all">
+      <button class="btn-ghost" data-open-gallery="documentary" aria-label="View all 13 documentary studies with technical data">
+        <span>View All 13 Studies + EXIF Data</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M1 7h12M7 1l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </article>
+
+  <!-- PROJECT 5 — BTS -->
+  <article class="project" id="project-bts" data-project="bts" aria-label="Behind the Scenes photography">
+    <div class="project__intro">
+      <div class="project__meta">
+        <span class="project__number eyebrow">05</span>
+        <span class="project__category eyebrow">Behind the Lens</span>
+      </div>
+      <h3 class="project__title reveal-lines">Behind the Frame</h3>
+      <p class="project__desc reveal-text">The moments between the moments — where intention becomes image. A visual diary of expeditions, setups, and the quiet craft behind every frame.</p>
+    </div>
+
+    <div class="project__grid project__grid--bts">
+      <figure class="project__fig project__fig--bts-hero" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/bts/bts-01-sm.webp" />
+            <img src="assets/images/bts/bts-01-md.webp" alt="Canon camera on tripod overlooking a city at sunset" loading="lazy" decoding="async" class="project__img" data-lightbox="bts" data-index="0" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--bts-b" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/bts/bts-02-md.webp" alt="Cinematography setup on location" loading="lazy" decoding="async" class="project__img" data-lightbox="bts" data-index="1" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--bts-c" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/bts/bts-04-md.webp" alt="Camera rigged for a complex scene" loading="lazy" decoding="async" class="project__img" data-lightbox="bts" data-index="2" />
+          </picture>
+        </div>
+      </figure>
+      <figure class="project__fig project__fig--bts-d" data-cursor="VIEW">
+        <div class="project__img-wrap img-reveal">
+          <picture>
+            <img src="assets/images/bts/bts-06-md.webp" alt="BTS — crew at golden hour" loading="lazy" decoding="async" class="project__img" data-lightbox="bts" data-index="3" />
+          </picture>
+        </div>
+      </figure>
+    </div>
+
+    <div class="project__view-all">
+      <button class="btn-ghost" data-open-gallery="bts" aria-label="View all 17 behind-the-scenes photos">
+        <span>View All 17 Production Frames</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M1 7h12M7 1l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </article>
+</section>
+
+<!-- FILMS / VIDEO WORK -->
+<section id="films" class="films section" aria-label="Films and video work">
+  <div class="films__header">
+    <span class="eyebrow reveal-text">Motion Works &amp; Reels</span>
+    <h2 class="films__title reveal-lines">Films &amp; Travelogues</h2>
+    <p class="films__sub reveal-text">Narrative short films, 15-city Indian travel essays, live musical broadcasts, commercial campaigns, and environmental documentaries.</p>
+  </div>
+
+  <!-- Category Filter Tabs -->
+  <div class="films__filters" role="tablist" aria-label="Filter motion works">
+    <button class="filter-tab is-active" data-filter="all" role="tab" aria-selected="true">All Works (12)</button>
+    <button class="filter-tab" data-filter="short-film" role="tab" aria-selected="false">Short Films (3)</button>
+    <button class="filter-tab" data-filter="travel" role="tab" aria-selected="false">Travel Reels (6)</button>
+    <button class="filter-tab" data-filter="commercial" role="tab" aria-selected="false">Commercial Ads (1)</button>
+    <button class="filter-tab" data-filter="music" role="tab" aria-selected="false">Live Music (1)</button>
+    <button class="filter-tab" data-filter="urban" role="tab" aria-selected="false">Urban Green (1)</button>
+  </div>
+
+  <div class="films__grid">
+
+    <!-- 1. Afwaah -->
+    <article class="film-card" data-category-type="short-film" data-video="assets/videos/afwaah.mp4" data-title="Afwaah" data-category="Short Film" data-desc="A short film exploring rumour, truth, and the human condition in a small community. Directed by Shivam Sen." aria-label="Short film: Afwaah by Shivam Sen">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/afwaah.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Short Film</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Afwaah</h3>
+        <p class="film-card__desc">A short film exploring rumour, truth, and the weight of words in a small community.</p>
+        <span class="film-card__meta eyebrow">Dir. Shivam Sen · Watch Film &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 2. Mazboor -->
+    <article class="film-card" data-category-type="short-film" data-video="assets/videos/mazboor.mp4" data-title="Mazboor" data-category="Feature Short Film" data-desc="A feature-length short film — cinematic storytelling at full scale. Drama, tension, and emotional depth. Directed by Shivam Sen." aria-label="Short film: Mazboor — full length">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/mazboor.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Feature Short Film</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Mazboor</h3>
+        <p class="film-card__desc">A feature-length short film — cinematic drama and humanity at full scale.</p>
+        <span class="film-card__meta eyebrow">Dir. Shivam Sen · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 3. Unknown Call -->
+    <article class="film-card" data-category-type="short-film" data-video="assets/videos/unknown-call.mp4" data-title="Unknown Call" data-category="Short Film / Thriller" data-desc="A tense narrative short film centered around an unexpected late-night phone call. Directed by Shivam Sen." aria-label="Short film: Unknown Call">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/unknown-call.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Short Film</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Unknown Call</h3>
+        <p class="film-card__desc">Suspense and psychological drama captured in intimate cinematic lighting.</p>
+        <span class="film-card__meta eyebrow">Dir. Shivam Sen · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 4. Pareshaan (Musical) -->
+    <article class="film-card" data-category-type="music" data-video="assets/videos/pareshaan.mp4" data-title="Pareshaan" data-category="Musical / Multicam" data-desc="Multi-camera live musical production — complex lighting, synchronized cuts, and high-energy stage performance." aria-label="Multicamera Music Production: Pareshaan Song">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/pareshaan.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Musical / Multicam</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Pareshaan</h3>
+        <p class="film-card__desc">Multi-camera coverage of a live musical performance — complex staging, seamless cuts.</p>
+        <span class="film-card__meta eyebrow">Live Production · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 5. Rajasthan Travelogue -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/rajasthan.mp4" data-title="Rajasthan — Jaisalmer &amp; Jodhpur" data-category="Travel Reel" data-desc="A cinematic exploration of Jaisalmer, golden dunes, and ancient forts in Rajasthan. Shot and edited by Shivam Sen." aria-label="Travel Reel: Rajasthan — Jaisalmer">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/rajasthan.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Rajasthan</h3>
+        <p class="film-card__desc">Golden hours, desert winds, and ancient sandstone architecture across the Thar.</p>
+        <span class="film-card__meta eyebrow">Travel &amp; Documentary · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 6. Kashi Banaras -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/travel-kashi.mp4" data-title="Kashi Banaras — The Eternal City" data-category="Travel Reel" data-desc="Sacred ghats, evening Ganga Aarti, and centuries of devotion captured along the riverbanks of Varanasi." aria-label="Travel Reel: Kashi Banaras">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/travel-kashi.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Kashi Banaras</h3>
+        <p class="film-card__desc">Spiritual resonance and twilight embers on the ghats of Varanasi.</p>
+        <span class="film-card__meta eyebrow">Varanasi Series · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 7. Jaipur Pink City -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/travel-jaipur.mp4" data-title="Jaipur — The Royal Heritage" data-category="Travel Reel" data-desc="Palaces, bustling bazaars, and royal courtyards of the Pink City." aria-label="Travel Reel: Jaipur">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/travel-jaipur.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Jaipur</h3>
+        <p class="film-card__desc">Intricate terracotta facades and royal history in motion.</p>
+        <span class="film-card__meta eyebrow">Rajasthan Series · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 8. Rishikesh & Devprayag -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/travel-rishikesh.mp4" data-title="Rishikesh &amp; Devprayag" data-category="Travel Reel" data-desc="The sacred confluence of Alaknanda &amp; Bhagirathi, and misty Himalayan mornings." aria-label="Travel Reel: Rishikesh">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/travel-rishikesh.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Rishikesh</h3>
+        <p class="film-card__desc">Mountain breezes, emerald river currents, and sacred stillness.</p>
+        <span class="film-card__meta eyebrow">Uttarakhand Series · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 9. Gangtok Sikkim -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/travel-gangtok.mp4" data-title="Gangtok — Eastern Himalayas" data-category="Travel Reel" data-desc="Monasteries, misty mountain passes, and vibrant culture of Sikkim." aria-label="Travel Reel: Gangtok Sikkim">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/travel-gangtok.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Gangtok Sikkim</h3>
+        <p class="film-card__desc">High-altitude landscapes and Buddhist monastery chants.</p>
+        <span class="film-card__meta eyebrow">Himalayan Series · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 10. Taj Mahal -->
+    <article class="film-card" data-category-type="travel" data-video="assets/videos/travel-tajmahal.mp4" data-title="Taj Mahal — Monument of Love" data-category="Travel Reel" data-desc="Marble poetry at sunrise — an immortal symbol of human artistry." aria-label="Travel Reel: Taj Mahal">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/travel-tajmahal.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Travel Reel</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Taj Mahal</h3>
+        <p class="film-card__desc">White marble reflections and morning mist in Agra.</p>
+        <span class="film-card__meta eyebrow">Heritage Series · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 11. Urban Green -->
+    <article class="film-card" data-category-type="urban" data-video="assets/videos/urban-green.mp4" data-title="Urban Green" data-category="Environmental Documentary" data-desc="A visual essay on ecology, sustainable spaces, and living nature inside modern urban infrastructure." aria-label="Documentary: Urban Green">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/urban-green.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Environmental</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Urban Green</h3>
+        <p class="film-card__desc">Living foliage, ecological architecture, and urban tranquility.</p>
+        <span class="film-card__meta eyebrow">Documentary Essay · Watch &rarr;</span>
+      </div>
+    </article>
+
+    <!-- 12. Commercial Ads -->
+    <article class="film-card" data-category-type="commercial" data-video="assets/videos/titan-watch.mp4" data-title="Titan Commercial Campaign" data-category="Ad Films" data-desc="Commercial product advertising film for Titan Watch, Dot &amp; Key, and Man Matters — crisp lighting and dynamic motion." aria-label="Commercial Ad Films">
+      <div class="film-card__thumb" data-cursor="PLAY">
+        <video class="film-card__video-preview" data-src="assets/videos/titan-watch.mp4" preload="none" muted playsinline loop></video>
+        <div class="film-card__overlay"></div>
+        <div class="film-card__play-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="23" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" fill="rgba(13,13,13,0.5)"/><path d="M20 16l16 8-16 8V16z" fill="#c9a96e"/></svg>
+        </div>
+        <span class="film-card__category eyebrow">Ad Film</span>
+      </div>
+      <div class="film-card__info">
+        <h3 class="film-card__title">Titan &amp; Brand Ads</h3>
+        <p class="film-card__desc">High-precision commercial storytelling for lifestyle &amp; consumer brands.</p>
+        <span class="film-card__meta eyebrow">Brand Films · Watch &rarr;</span>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="about section" aria-label="About Shivam Sen">
+  <div class="about__inner">
+    <div class="about__image-col">
+      <figure class="about__portrait" data-cursor="HELLO">
+        <div class="about__portrait-wrap img-reveal">
+          <picture>
+            <source media="(max-width:600px)" srcset="assets/images/bts/bts-01-sm.webp" />
+            <img src="assets/images/bts/bts-01-md.webp" alt="Shivam Sen with his camera, overlooking a city at sunset" loading="lazy" decoding="async" class="about__portrait-img" />
+          </picture>
+        </div>
+        <figcaption class="about__portrait-caption eyebrow">On location — Sunset session</figcaption>
+      </figure>
+    </div>
+    <div class="about__text-col">
+      <span class="eyebrow reveal-text">About</span>
+      <h2 class="about__name reveal-lines">Shivam Sen</h2>
+      <div class="about__statement reveal-text">
+        <p>I make photographs and films that feel lived-in.</p>
+        <p>My work spans childhood milestones, family celebrations, commercial product work, and narrative filmmaking — each with the same underlying question: <em>what is the truest version of this moment?</em></p>
+        <p>Based in India, I work across the country and beyond — for families who want something they'll keep forever, and for brands who want their story told beautifully.</p>
+      </div>
+      <div class="about__credentials">
+        <div class="about__cred-item">
+          <span class="about__cred-label eyebrow">Specialisation</span>
+          <span class="about__cred-value">Portraiture · Events · Commercial · Film</span>
+        </div>
+        <div class="about__cred-item">
+          <span class="about__cred-label eyebrow">Based In</span>
+          <span class="about__cred-value">India</span>
+        </div>
+        <div class="about__cred-item">
+          <span class="about__cred-label eyebrow">Equipment</span>
+          <span class="about__cred-value">Canon · Multi-Camera Production</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="contact section" aria-label="Contact Shivam Sen">
+  <div class="contact__inner">
+    <span class="eyebrow reveal-text">Get in Touch</span>
+    <h2 class="contact__headline reveal-lines">Let's create something<br/><em>worth remembering.</em></h2>
+    <p class="contact__sub reveal-text">Available for portrait sessions, family milestones, commercial work, and short film productions.</p>
+    <div class="contact__links">
+      <a href="mailto:shiv2401s@gmail.com" class="contact__link contact__link--email" data-cursor="WRITE" aria-label="Send email to Shivam Sen">
+        <span class="contact__link-label eyebrow">Email</span>
+        <span class="contact__link-value">shiv2401s@gmail.com</span>
+        <svg class="contact__link-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 8h12M8 2l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+      <a href="tel:+919340369150" class="contact__link contact__link--phone" data-cursor="CALL" aria-label="Call Shivam Sen">
+        <span class="contact__link-label eyebrow">Phone</span>
+        <span class="contact__link-value">+91 9340369150</span>
+        <svg class="contact__link-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 8h12M8 2l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+      <a href="https://instagram.com/shivamsen" target="_blank" rel="noopener noreferrer" class="contact__link contact__link--instagram" data-cursor="FOLLOW" aria-label="Follow Shivam Sen on Instagram">
+        <span class="contact__link-label eyebrow">Instagram</span>
+        <span class="contact__link-value">@shivamsen</span>
+        <svg class="contact__link-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 8h12M8 2l6 6-6 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer" aria-label="Site footer">
+  <div class="footer__inner">
+    <div class="footer__logo">
+      <span>Shivam Sen</span>
+      <span class="footer__logo-sub eyebrow">Visual Storyteller</span>
+    </div>
+    <p class="footer__copy eyebrow">&copy; 2026 Shivam Sen. All photographs and films are the exclusive property of Shivam Sen.</p>
+    <div class="footer__social">
+      <a href="mailto:shiv2401s@gmail.com" class="footer__social-link" aria-label="Email Shivam Sen">Email</a>
+      <a href="tel:+919340369150" class="footer__social-link" aria-label="Call Shivam Sen">+91 9340369150</a>
+      <a href="https://instagram.com/shivamsen" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="footer__social-link">Instagram</a>
+    </div>
+  </div>
+</footer>
+
+<!-- LIGHTBOX / GALLERY OVERLAY -->
+<div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
+  <button class="lightbox__close" id="lightboxClose" aria-label="Close image viewer">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M2 2l16 16M18 2L2 18" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+  </button>
+  <button class="lightbox__prev" id="lightboxPrev" aria-label="Previous photograph">
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M18 4L8 14l10 10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <button class="lightbox__next" id="lightboxNext" aria-label="Next photograph">
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M10 4l10 10-10 10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <div class="lightbox__stage">
+    <div class="lightbox__img-wrap">
+      <img id="lightboxImg" src="" alt="" class="lightbox__img" decoding="async" />
+    </div>
+  </div>
+  <div class="lightbox__caption">
+    <span id="lightboxCounter" class="eyebrow"></span>
+    <span id="lightboxAlt" class="lightbox__alt-text"></span>
+  </div>
+</div>
+
+<!-- GALLERY MODAL (Full series) -->
+<div id="galleryModal" class="gallery-modal" role="dialog" aria-modal="true" aria-label="Photography series gallery" hidden>
+  <div class="gallery-modal__header">
+    <h2 id="galleryModalTitle" class="gallery-modal__title"></h2>
+    <button class="gallery-modal__close" id="galleryModalClose" aria-label="Close gallery">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M2 2l16 16M18 2L2 18" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <div class="gallery-modal__grid" id="galleryModalGrid"></div>
+</div>
+
+<!-- VIDEO PLAYER MODAL -->
+<div id="videoModal" class="video-modal" role="dialog" aria-modal="true" aria-label="Video Player" hidden>
+  <div class="video-modal__backdrop" id="videoModalBackdrop"></div>
+  <div class="video-modal__container">
+    <div class="video-modal__header">
+      <div class="video-modal__meta">
+        <span id="videoModalCategory" class="eyebrow"></span>
+        <h3 id="videoModalTitle" class="video-modal__title"></h3>
+      </div>
+      <button class="video-modal__close" id="videoModalClose" aria-label="Close video player">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M2 2l16 16M18 2L2 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <div class="video-modal__player-wrap">
+      <video id="videoPlayer" class="video-modal__video" controls playsinline preload="auto">
+        <source id="videoPlayerSource" src="" type="video/mp4" />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div class="video-modal__footer">
+      <p id="videoModalDesc" class="video-modal__desc"></p>
+    </div>
+  </div>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>

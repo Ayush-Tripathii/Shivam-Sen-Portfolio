@@ -1,0 +1,325 @@
+{
+  "baby-shoot": [
+    {
+      "id": "baby-01",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-01-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-01-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-01-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-01-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-02",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-02-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-02-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-02-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-02-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-03",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-03-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-03-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-03-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-03-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-04",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-04-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-04-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-04-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-04-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-05",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-05-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-05-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-05-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-05-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-06",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-06-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-06-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-06-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-06-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-07",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-07-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-07-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-07-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-07-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-08",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-08-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-08-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-08-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-08-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-09",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-09-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-09-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-09-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-09-placeholder.webp"
+      }
+    },
+    {
+      "id": "baby-10",
+      "paths": {
+        "sm": "/assets/images/baby-shoot/baby-10-sm.webp",
+        "md": "/assets/images/baby-shoot/baby-10-md.webp",
+        "lg": "/assets/images/baby-shoot/baby-10-lg.webp",
+        "placeholder": "/assets/images/baby-shoot/baby-10-placeholder.webp"
+      }
+    }
+  ],
+  "birthday": [
+    {
+      "id": "bday-01",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-01-sm.webp",
+        "md": "/assets/images/birthday/bday-01-md.webp",
+        "lg": "/assets/images/birthday/bday-01-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-01-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-02",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-02-sm.webp",
+        "md": "/assets/images/birthday/bday-02-md.webp",
+        "lg": "/assets/images/birthday/bday-02-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-02-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-03",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-03-sm.webp",
+        "md": "/assets/images/birthday/bday-03-md.webp",
+        "lg": "/assets/images/birthday/bday-03-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-03-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-04",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-04-sm.webp",
+        "md": "/assets/images/birthday/bday-04-md.webp",
+        "lg": "/assets/images/birthday/bday-04-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-04-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-05",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-05-sm.webp",
+        "md": "/assets/images/birthday/bday-05-md.webp",
+        "lg": "/assets/images/birthday/bday-05-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-05-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-06",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-06-sm.webp",
+        "md": "/assets/images/birthday/bday-06-md.webp",
+        "lg": "/assets/images/birthday/bday-06-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-06-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-07",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-07-sm.webp",
+        "md": "/assets/images/birthday/bday-07-md.webp",
+        "lg": "/assets/images/birthday/bday-07-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-07-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-08",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-08-sm.webp",
+        "md": "/assets/images/birthday/bday-08-md.webp",
+        "lg": "/assets/images/birthday/bday-08-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-08-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-09",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-09-sm.webp",
+        "md": "/assets/images/birthday/bday-09-md.webp",
+        "lg": "/assets/images/birthday/bday-09-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-09-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-10",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-10-sm.webp",
+        "md": "/assets/images/birthday/bday-10-md.webp",
+        "lg": "/assets/images/birthday/bday-10-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-10-placeholder.webp"
+      }
+    },
+    {
+      "id": "bday-11",
+      "paths": {
+        "sm": "/assets/images/birthday/bday-11-sm.webp",
+        "md": "/assets/images/birthday/bday-11-md.webp",
+        "lg": "/assets/images/birthday/bday-11-lg.webp",
+        "placeholder": "/assets/images/birthday/bday-11-placeholder.webp"
+      }
+    }
+  ],
+  "product": [
+    {
+      "id": "prod-01",
+      "paths": {
+        "sm": "/assets/images/product/prod-01-sm.webp",
+        "md": "/assets/images/product/prod-01-md.webp",
+        "lg": "/assets/images/product/prod-01-lg.webp",
+        "placeholder": "/assets/images/product/prod-01-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-02",
+      "paths": {
+        "sm": "/assets/images/product/prod-02-sm.webp",
+        "md": "/assets/images/product/prod-02-md.webp",
+        "lg": "/assets/images/product/prod-02-lg.webp",
+        "placeholder": "/assets/images/product/prod-02-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-03",
+      "paths": {
+        "sm": "/assets/images/product/prod-03-sm.webp",
+        "md": "/assets/images/product/prod-03-md.webp",
+        "lg": "/assets/images/product/prod-03-lg.webp",
+        "placeholder": "/assets/images/product/prod-03-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-04",
+      "paths": {
+        "sm": "/assets/images/product/prod-04-sm.webp",
+        "md": "/assets/images/product/prod-04-md.webp",
+        "lg": "/assets/images/product/prod-04-lg.webp",
+        "placeholder": "/assets/images/product/prod-04-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-05",
+      "paths": {
+        "sm": "/assets/images/product/prod-05-sm.webp",
+        "md": "/assets/images/product/prod-05-md.webp",
+        "lg": "/assets/images/product/prod-05-lg.webp",
+        "placeholder": "/assets/images/product/prod-05-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-06",
+      "paths": {
+        "sm": "/assets/images/product/prod-06-sm.webp",
+        "md": "/assets/images/product/prod-06-md.webp",
+        "lg": "/assets/images/product/prod-06-lg.webp",
+        "placeholder": "/assets/images/product/prod-06-placeholder.webp"
+      }
+    },
+    {
+      "id": "prod-07",
+      "paths": {
+        "sm": "/assets/images/product/prod-07-sm.webp",
+        "md": "/assets/images/product/prod-07-md.webp",
+        "lg": "/assets/images/product/prod-07-lg.webp",
+        "placeholder": "/assets/images/product/prod-07-placeholder.webp"
+      }
+    }
+  ],
+  "bts": [
+    {
+      "id": "bts-01",
+      "paths": {
+        "sm": "/assets/images/bts/bts-01-sm.webp",
+        "md": "/assets/images/bts/bts-01-md.webp",
+        "lg": "/assets/images/bts/bts-01-lg.webp",
+        "placeholder": "/assets/images/bts/bts-01-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-02",
+      "paths": {
+        "sm": "/assets/images/bts/bts-02-sm.webp",
+        "md": "/assets/images/bts/bts-02-md.webp",
+        "lg": "/assets/images/bts/bts-02-lg.webp",
+        "placeholder": "/assets/images/bts/bts-02-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-03",
+      "paths": {
+        "sm": "/assets/images/bts/bts-03-sm.webp",
+        "md": "/assets/images/bts/bts-03-md.webp",
+        "lg": "/assets/images/bts/bts-03-lg.webp",
+        "placeholder": "/assets/images/bts/bts-03-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-04",
+      "paths": {
+        "sm": "/assets/images/bts/bts-04-sm.webp",
+        "md": "/assets/images/bts/bts-04-md.webp",
+        "lg": "/assets/images/bts/bts-04-lg.webp",
+        "placeholder": "/assets/images/bts/bts-04-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-05",
+      "paths": {
+        "sm": "/assets/images/bts/bts-05-sm.webp",
+        "md": "/assets/images/bts/bts-05-md.webp",
+        "lg": "/assets/images/bts/bts-05-lg.webp",
+        "placeholder": "/assets/images/bts/bts-05-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-06",
+      "paths": {
+        "sm": "/assets/images/bts/bts-06-sm.webp",
+        "md": "/assets/images/bts/bts-06-md.webp",
+        "lg": "/assets/images/bts/bts-06-lg.webp",
+        "placeholder": "/assets/images/bts/bts-06-placeholder.webp"
+      }
+    },
+    {
+      "id": "bts-07",
+      "paths": {
+        "sm": "/assets/images/bts/bts-07-sm.webp",
+        "md": "/assets/images/bts/bts-07-md.webp",
+        "lg": "/assets/images/bts/bts-07-lg.webp",
+        "placeholder": "/assets/images/bts/bts-07-placeholder.webp"
+      }
+    }
+  ]
+}

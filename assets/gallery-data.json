@@ -1,0 +1,832 @@
+{
+  "childhood": [
+    {
+      "src": "assets/images/baby-shoot/baby-01-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-01-md.webp",
+      "alt": "Childhood Series — Photograph 1"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-02-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-02-md.webp",
+      "alt": "Childhood Series — Photograph 2"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-03-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-03-md.webp",
+      "alt": "Childhood Series — Photograph 3"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-04-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-04-md.webp",
+      "alt": "Childhood Series — Photograph 4"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-05-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-05-md.webp",
+      "alt": "Childhood Series — Photograph 5"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-06-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-06-md.webp",
+      "alt": "Childhood Series — Photograph 6"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-07-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-07-md.webp",
+      "alt": "Childhood Series — Photograph 7"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-08-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-08-md.webp",
+      "alt": "Childhood Series — Photograph 8"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-09-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-09-md.webp",
+      "alt": "Childhood Series — Photograph 9"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-10-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-10-md.webp",
+      "alt": "Childhood Series — Photograph 10"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-11-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-11-md.webp",
+      "alt": "Childhood Series — Photograph 11"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-12-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-12-md.webp",
+      "alt": "Childhood Series — Photograph 12"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-13-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-13-md.webp",
+      "alt": "Childhood Series — Photograph 13"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-14-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-14-md.webp",
+      "alt": "Childhood Series — Photograph 14"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-15-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-15-md.webp",
+      "alt": "Childhood Series — Photograph 15"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-16-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-16-md.webp",
+      "alt": "Childhood Series — Photograph 16"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-17-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-17-md.webp",
+      "alt": "Childhood Series — Photograph 17"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-18-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-18-md.webp",
+      "alt": "Childhood Series — Photograph 18"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-19-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-19-md.webp",
+      "alt": "Childhood Series — Photograph 19"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-20-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-20-md.webp",
+      "alt": "Childhood Series — Photograph 20"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-21-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-21-md.webp",
+      "alt": "Childhood Series — Photograph 21"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-22-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-22-md.webp",
+      "alt": "Childhood Series — Photograph 22"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-23-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-23-md.webp",
+      "alt": "Childhood Series — Photograph 23"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-24-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-24-md.webp",
+      "alt": "Childhood Series — Photograph 24"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-25-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-25-md.webp",
+      "alt": "Childhood Series — Photograph 25"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-26-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-26-md.webp",
+      "alt": "Childhood Series — Photograph 26"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-27-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-27-md.webp",
+      "alt": "Childhood Series — Photograph 27"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-28-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-28-md.webp",
+      "alt": "Childhood Series — Photograph 28"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-29-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-29-md.webp",
+      "alt": "Childhood Series — Photograph 29"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-30-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-30-md.webp",
+      "alt": "Childhood Series — Photograph 30"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-31-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-31-md.webp",
+      "alt": "Childhood Series — Photograph 31"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-32-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-32-md.webp",
+      "alt": "Childhood Series — Photograph 32"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-33-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-33-md.webp",
+      "alt": "Childhood Series — Photograph 33"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-34-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-34-md.webp",
+      "alt": "Childhood Series — Photograph 34"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-35-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-35-md.webp",
+      "alt": "Childhood Series — Photograph 35"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-36-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-36-md.webp",
+      "alt": "Childhood Series — Photograph 36"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-37-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-37-md.webp",
+      "alt": "Childhood Series — Photograph 37"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-38-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-38-md.webp",
+      "alt": "Childhood Series — Photograph 38"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-39-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-39-md.webp",
+      "alt": "Childhood Series — Photograph 39"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-40-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-40-md.webp",
+      "alt": "Childhood Series — Photograph 40"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-41-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-41-md.webp",
+      "alt": "Childhood Series — Photograph 41"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-42-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-42-md.webp",
+      "alt": "Childhood Series — Photograph 42"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-43-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-43-md.webp",
+      "alt": "Childhood Series — Photograph 43"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-44-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-44-md.webp",
+      "alt": "Childhood Series — Photograph 44"
+    },
+    {
+      "src": "assets/images/baby-shoot/baby-45-lg.webp",
+      "thumb": "assets/images/baby-shoot/baby-45-md.webp",
+      "alt": "Childhood Series — Photograph 45"
+    }
+  ],
+  "celebrations": [
+    {
+      "src": "assets/images/birthday/bday-01-lg.webp",
+      "thumb": "assets/images/birthday/bday-01-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 1"
+    },
+    {
+      "src": "assets/images/birthday/bday-02-lg.webp",
+      "thumb": "assets/images/birthday/bday-02-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 2"
+    },
+    {
+      "src": "assets/images/birthday/bday-03-lg.webp",
+      "thumb": "assets/images/birthday/bday-03-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 3"
+    },
+    {
+      "src": "assets/images/birthday/bday-04-lg.webp",
+      "thumb": "assets/images/birthday/bday-04-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 4"
+    },
+    {
+      "src": "assets/images/birthday/bday-05-lg.webp",
+      "thumb": "assets/images/birthday/bday-05-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 5"
+    },
+    {
+      "src": "assets/images/birthday/bday-06-lg.webp",
+      "thumb": "assets/images/birthday/bday-06-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 6"
+    },
+    {
+      "src": "assets/images/birthday/bday-07-lg.webp",
+      "thumb": "assets/images/birthday/bday-07-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 7"
+    },
+    {
+      "src": "assets/images/birthday/bday-08-lg.webp",
+      "thumb": "assets/images/birthday/bday-08-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 8"
+    },
+    {
+      "src": "assets/images/birthday/bday-09-lg.webp",
+      "thumb": "assets/images/birthday/bday-09-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 9"
+    },
+    {
+      "src": "assets/images/birthday/bday-10-lg.webp",
+      "thumb": "assets/images/birthday/bday-10-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 10"
+    },
+    {
+      "src": "assets/images/birthday/bday-11-lg.webp",
+      "thumb": "assets/images/birthday/bday-11-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 11"
+    },
+    {
+      "src": "assets/images/birthday/bday-12-lg.webp",
+      "thumb": "assets/images/birthday/bday-12-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 12"
+    },
+    {
+      "src": "assets/images/birthday/bday-13-lg.webp",
+      "thumb": "assets/images/birthday/bday-13-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 13"
+    },
+    {
+      "src": "assets/images/birthday/bday-14-lg.webp",
+      "thumb": "assets/images/birthday/bday-14-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 14"
+    },
+    {
+      "src": "assets/images/birthday/bday-15-lg.webp",
+      "thumb": "assets/images/birthday/bday-15-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 15"
+    },
+    {
+      "src": "assets/images/birthday/bday-16-lg.webp",
+      "thumb": "assets/images/birthday/bday-16-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 16"
+    },
+    {
+      "src": "assets/images/birthday/bday-17-lg.webp",
+      "thumb": "assets/images/birthday/bday-17-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 17"
+    },
+    {
+      "src": "assets/images/birthday/bday-18-lg.webp",
+      "thumb": "assets/images/birthday/bday-18-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 18"
+    },
+    {
+      "src": "assets/images/birthday/bday-19-lg.webp",
+      "thumb": "assets/images/birthday/bday-19-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 19"
+    },
+    {
+      "src": "assets/images/birthday/bday-20-lg.webp",
+      "thumb": "assets/images/birthday/bday-20-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 20"
+    },
+    {
+      "src": "assets/images/birthday/bday-21-lg.webp",
+      "thumb": "assets/images/birthday/bday-21-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 21"
+    },
+    {
+      "src": "assets/images/birthday/bday-22-lg.webp",
+      "thumb": "assets/images/birthday/bday-22-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 22"
+    },
+    {
+      "src": "assets/images/birthday/bday-23-lg.webp",
+      "thumb": "assets/images/birthday/bday-23-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 23"
+    },
+    {
+      "src": "assets/images/birthday/bday-24-lg.webp",
+      "thumb": "assets/images/birthday/bday-24-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 24"
+    },
+    {
+      "src": "assets/images/birthday/bday-25-lg.webp",
+      "thumb": "assets/images/birthday/bday-25-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 25"
+    },
+    {
+      "src": "assets/images/birthday/bday-26-lg.webp",
+      "thumb": "assets/images/birthday/bday-26-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 26"
+    },
+    {
+      "src": "assets/images/birthday/bday-27-lg.webp",
+      "thumb": "assets/images/birthday/bday-27-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 27"
+    },
+    {
+      "src": "assets/images/birthday/bday-28-lg.webp",
+      "thumb": "assets/images/birthday/bday-28-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 28"
+    },
+    {
+      "src": "assets/images/birthday/bday-29-lg.webp",
+      "thumb": "assets/images/birthday/bday-29-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 29"
+    },
+    {
+      "src": "assets/images/birthday/bday-30-lg.webp",
+      "thumb": "assets/images/birthday/bday-30-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 30"
+    },
+    {
+      "src": "assets/images/birthday/bday-31-lg.webp",
+      "thumb": "assets/images/birthday/bday-31-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 31"
+    },
+    {
+      "src": "assets/images/birthday/bday-32-lg.webp",
+      "thumb": "assets/images/birthday/bday-32-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 32"
+    },
+    {
+      "src": "assets/images/birthday/bday-33-lg.webp",
+      "thumb": "assets/images/birthday/bday-33-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 33"
+    },
+    {
+      "src": "assets/images/birthday/bday-34-lg.webp",
+      "thumb": "assets/images/birthday/bday-34-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 34"
+    },
+    {
+      "src": "assets/images/birthday/bday-35-lg.webp",
+      "thumb": "assets/images/birthday/bday-35-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 35"
+    },
+    {
+      "src": "assets/images/birthday/bday-36-lg.webp",
+      "thumb": "assets/images/birthday/bday-36-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 36"
+    },
+    {
+      "src": "assets/images/birthday/bday-37-lg.webp",
+      "thumb": "assets/images/birthday/bday-37-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 37"
+    },
+    {
+      "src": "assets/images/birthday/bday-38-lg.webp",
+      "thumb": "assets/images/birthday/bday-38-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 38"
+    },
+    {
+      "src": "assets/images/birthday/bday-39-lg.webp",
+      "thumb": "assets/images/birthday/bday-39-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 39"
+    },
+    {
+      "src": "assets/images/birthday/bday-40-lg.webp",
+      "thumb": "assets/images/birthday/bday-40-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 40"
+    },
+    {
+      "src": "assets/images/birthday/bday-41-lg.webp",
+      "thumb": "assets/images/birthday/bday-41-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 41"
+    },
+    {
+      "src": "assets/images/birthday/bday-42-lg.webp",
+      "thumb": "assets/images/birthday/bday-42-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 42"
+    },
+    {
+      "src": "assets/images/birthday/bday-43-lg.webp",
+      "thumb": "assets/images/birthday/bday-43-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 43"
+    },
+    {
+      "src": "assets/images/birthday/bday-44-lg.webp",
+      "thumb": "assets/images/birthday/bday-44-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 44"
+    },
+    {
+      "src": "assets/images/birthday/bday-45-lg.webp",
+      "thumb": "assets/images/birthday/bday-45-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 45"
+    },
+    {
+      "src": "assets/images/birthday/bday-46-lg.webp",
+      "thumb": "assets/images/birthday/bday-46-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 46"
+    },
+    {
+      "src": "assets/images/birthday/bday-47-lg.webp",
+      "thumb": "assets/images/birthday/bday-47-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 47"
+    },
+    {
+      "src": "assets/images/birthday/bday-48-lg.webp",
+      "thumb": "assets/images/birthday/bday-48-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 48"
+    },
+    {
+      "src": "assets/images/birthday/bday-49-lg.webp",
+      "thumb": "assets/images/birthday/bday-49-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 49"
+    },
+    {
+      "src": "assets/images/birthday/bday-50-lg.webp",
+      "thumb": "assets/images/birthday/bday-50-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 50"
+    },
+    {
+      "src": "assets/images/birthday/bday-51-lg.webp",
+      "thumb": "assets/images/birthday/bday-51-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 51"
+    },
+    {
+      "src": "assets/images/birthday/bday-52-lg.webp",
+      "thumb": "assets/images/birthday/bday-52-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 52"
+    },
+    {
+      "src": "assets/images/birthday/bday-53-lg.webp",
+      "thumb": "assets/images/birthday/bday-53-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 53"
+    },
+    {
+      "src": "assets/images/birthday/bday-54-lg.webp",
+      "thumb": "assets/images/birthday/bday-54-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 54"
+    },
+    {
+      "src": "assets/images/birthday/bday-55-lg.webp",
+      "thumb": "assets/images/birthday/bday-55-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 55"
+    },
+    {
+      "src": "assets/images/birthday/bday-56-lg.webp",
+      "thumb": "assets/images/birthday/bday-56-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 56"
+    },
+    {
+      "src": "assets/images/birthday/bday-57-lg.webp",
+      "thumb": "assets/images/birthday/bday-57-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 57"
+    },
+    {
+      "src": "assets/images/birthday/bday-58-lg.webp",
+      "thumb": "assets/images/birthday/bday-58-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 58"
+    },
+    {
+      "src": "assets/images/birthday/bday-59-lg.webp",
+      "thumb": "assets/images/birthday/bday-59-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 59"
+    },
+    {
+      "src": "assets/images/birthday/bday-60-lg.webp",
+      "thumb": "assets/images/birthday/bday-60-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 60"
+    },
+    {
+      "src": "assets/images/birthday/bday-61-lg.webp",
+      "thumb": "assets/images/birthday/bday-61-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 61"
+    },
+    {
+      "src": "assets/images/birthday/bday-62-lg.webp",
+      "thumb": "assets/images/birthday/bday-62-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 62"
+    },
+    {
+      "src": "assets/images/birthday/bday-63-lg.webp",
+      "thumb": "assets/images/birthday/bday-63-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 63"
+    },
+    {
+      "src": "assets/images/birthday/bday-64-lg.webp",
+      "thumb": "assets/images/birthday/bday-64-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 64"
+    },
+    {
+      "src": "assets/images/birthday/bday-65-lg.webp",
+      "thumb": "assets/images/birthday/bday-65-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 65"
+    },
+    {
+      "src": "assets/images/birthday/bday-66-lg.webp",
+      "thumb": "assets/images/birthday/bday-66-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 66"
+    },
+    {
+      "src": "assets/images/birthday/bday-67-lg.webp",
+      "thumb": "assets/images/birthday/bday-67-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 67"
+    },
+    {
+      "src": "assets/images/birthday/bday-68-lg.webp",
+      "thumb": "assets/images/birthday/bday-68-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 68"
+    },
+    {
+      "src": "assets/images/birthday/bday-69-lg.webp",
+      "thumb": "assets/images/birthday/bday-69-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 69"
+    },
+    {
+      "src": "assets/images/birthday/bday-70-lg.webp",
+      "thumb": "assets/images/birthday/bday-70-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 70"
+    },
+    {
+      "src": "assets/images/birthday/bday-71-lg.webp",
+      "thumb": "assets/images/birthday/bday-71-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 71"
+    },
+    {
+      "src": "assets/images/birthday/bday-72-lg.webp",
+      "thumb": "assets/images/birthday/bday-72-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 72"
+    },
+    {
+      "src": "assets/images/birthday/bday-73-lg.webp",
+      "thumb": "assets/images/birthday/bday-73-md.webp",
+      "alt": "Celebrations & Birthday — Photograph 73"
+    }
+  ],
+  "product": [
+    {
+      "src": "assets/images/product/prod-01-lg.webp",
+      "thumb": "assets/images/product/prod-01-md.webp",
+      "alt": "Product & Commercial — Photograph 1"
+    },
+    {
+      "src": "assets/images/product/prod-02-lg.webp",
+      "thumb": "assets/images/product/prod-02-md.webp",
+      "alt": "Product & Commercial — Photograph 2"
+    },
+    {
+      "src": "assets/images/product/prod-03-lg.webp",
+      "thumb": "assets/images/product/prod-03-md.webp",
+      "alt": "Product & Commercial — Photograph 3"
+    },
+    {
+      "src": "assets/images/product/prod-04-lg.webp",
+      "thumb": "assets/images/product/prod-04-md.webp",
+      "alt": "Product & Commercial — Photograph 4"
+    },
+    {
+      "src": "assets/images/product/prod-05-lg.webp",
+      "thumb": "assets/images/product/prod-05-md.webp",
+      "alt": "Product & Commercial — Photograph 5"
+    },
+    {
+      "src": "assets/images/product/prod-06-lg.webp",
+      "thumb": "assets/images/product/prod-06-md.webp",
+      "alt": "Product & Commercial — Photograph 6"
+    },
+    {
+      "src": "assets/images/product/prod-07-lg.webp",
+      "thumb": "assets/images/product/prod-07-md.webp",
+      "alt": "Product & Commercial — Photograph 7"
+    },
+    {
+      "src": "assets/images/product/prod-08-lg.webp",
+      "thumb": "assets/images/product/prod-08-md.webp",
+      "alt": "Product & Commercial — Photograph 8"
+    },
+    {
+      "src": "assets/images/product/prod-09-lg.webp",
+      "thumb": "assets/images/product/prod-09-md.webp",
+      "alt": "Product & Commercial — Photograph 9"
+    },
+    {
+      "src": "assets/images/product/prod-10-lg.webp",
+      "thumb": "assets/images/product/prod-10-md.webp",
+      "alt": "Product & Commercial — Photograph 10"
+    },
+    {
+      "src": "assets/images/product/prod-11-lg.webp",
+      "thumb": "assets/images/product/prod-11-md.webp",
+      "alt": "Product & Commercial — Photograph 11"
+    },
+    {
+      "src": "assets/images/product/prod-12-lg.webp",
+      "thumb": "assets/images/product/prod-12-md.webp",
+      "alt": "Product & Commercial — Photograph 12"
+    },
+    {
+      "src": "assets/images/product/prod-13-lg.webp",
+      "thumb": "assets/images/product/prod-13-md.webp",
+      "alt": "Product & Commercial — Photograph 13"
+    },
+    {
+      "src": "assets/images/product/prod-14-lg.webp",
+      "thumb": "assets/images/product/prod-14-md.webp",
+      "alt": "Product & Commercial — Photograph 14"
+    },
+    {
+      "src": "assets/images/product/prod-15-lg.webp",
+      "thumb": "assets/images/product/prod-15-md.webp",
+      "alt": "Product & Commercial — Photograph 15"
+    },
+    {
+      "src": "assets/images/product/prod-16-lg.webp",
+      "thumb": "assets/images/product/prod-16-md.webp",
+      "alt": "Product & Commercial — Photograph 16"
+    }
+  ],
+  "bts": [
+    {
+      "src": "assets/images/bts/bts-01-lg.webp",
+      "thumb": "assets/images/bts/bts-01-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 1"
+    },
+    {
+      "src": "assets/images/bts/bts-02-lg.webp",
+      "thumb": "assets/images/bts/bts-02-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 2"
+    },
+    {
+      "src": "assets/images/bts/bts-03-lg.webp",
+      "thumb": "assets/images/bts/bts-03-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 3"
+    },
+    {
+      "src": "assets/images/bts/bts-04-lg.webp",
+      "thumb": "assets/images/bts/bts-04-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 4"
+    },
+    {
+      "src": "assets/images/bts/bts-05-lg.webp",
+      "thumb": "assets/images/bts/bts-05-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 5"
+    },
+    {
+      "src": "assets/images/bts/bts-06-lg.webp",
+      "thumb": "assets/images/bts/bts-06-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 6"
+    },
+    {
+      "src": "assets/images/bts/bts-07-lg.webp",
+      "thumb": "assets/images/bts/bts-07-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 7"
+    },
+    {
+      "src": "assets/images/bts/bts-08-lg.webp",
+      "thumb": "assets/images/bts/bts-08-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 8"
+    },
+    {
+      "src": "assets/images/bts/bts-09-lg.webp",
+      "thumb": "assets/images/bts/bts-09-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 9"
+    },
+    {
+      "src": "assets/images/bts/bts-10-lg.webp",
+      "thumb": "assets/images/bts/bts-10-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 10"
+    },
+    {
+      "src": "assets/images/bts/bts-11-lg.webp",
+      "thumb": "assets/images/bts/bts-11-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 11"
+    },
+    {
+      "src": "assets/images/bts/bts-12-lg.webp",
+      "thumb": "assets/images/bts/bts-12-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 12"
+    },
+    {
+      "src": "assets/images/bts/bts-13-lg.webp",
+      "thumb": "assets/images/bts/bts-13-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 13"
+    },
+    {
+      "src": "assets/images/bts/bts-14-lg.webp",
+      "thumb": "assets/images/bts/bts-14-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 14"
+    },
+    {
+      "src": "assets/images/bts/bts-15-lg.webp",
+      "thumb": "assets/images/bts/bts-15-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 15"
+    },
+    {
+      "src": "assets/images/bts/bts-16-lg.webp",
+      "thumb": "assets/images/bts/bts-16-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 16"
+    },
+    {
+      "src": "assets/images/bts/bts-17-lg.webp",
+      "thumb": "assets/images/bts/bts-17-md.webp",
+      "alt": "Behind the Scenes & Production — Frame 17"
+    }
+  ],
+  "documentary": [
+    {
+      "src": "assets/images/documentary-webp/doc-01-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-01-md.webp",
+      "alt": "Street Photography — Spices vendor in the marketplace. Canon EOS 200D · 109mm · ISO 200 · f/5 · 1/200s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-02-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-02-md.webp",
+      "alt": "Night Photography — Quiet boat reflected on still waters. Canon EOS 200D · 28mm · ISO 800 · f/7.1 · 1/4s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-03-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-03-md.webp",
+      "alt": "Candid Photography — A spontaneous, joyful moment with a sadhu monk. Canon EOS 200D · 55mm · ISO 200 · f/4.5 · 1/125s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-04-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-04-md.webp",
+      "alt": "Skyscape Photography — Golden hour sunburst over the lake. Canon EOS 200D · 18mm · ISO 200 · f/16 · 1/125s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-05-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-05-md.webp",
+      "alt": "Nature Photography — Monarch butterfly in natural habitat. Canon EOS 200D · 24mm · ISO 200 · f/5 · 1/200s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-06-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-06-md.webp",
+      "alt": "Panorama Photography — Panoramic vista across Bhopal Upper Lake. Canon EOS 200D · 55mm · ISO 100 · f/7.1 · 1/125s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-07-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-07-md.webp",
+      "alt": "Still Life Photography — Desk flatlay — 'You Can' journal & workspace. Sony Alpha 7 M3 · 37mm · ISO 250 · f/11 · 1/30s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-08-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-08-md.webp",
+      "alt": "Silhouette Photography — Human silhouette suspended against cloudscape. Canon EOS 200D · 18mm · ISO 200 · f/9 · 1/250s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-09-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-09-md.webp",
+      "alt": "Waterscape Photography — Sunset boat journey across tranquil waters. Canon EOS 200D · 55mm · ISO 100 · f/8 · 1/100s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-10-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-10-md.webp",
+      "alt": "Architecture Photography — Modern architectural lines and symmetry. Canon EOS 200D · 18mm · ISO 200 · f/10 · 1/100s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-11-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-11-md.webp",
+      "alt": "Long Exposure Photography — Motion blur of an express train at platform. Canon EOS 200D · 24mm · ISO 100 · f/22 · 8s"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-12-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-12-md.webp",
+      "alt": "Visual Research Cover — Photography Project — Department of Film Tech & TV Production, SV Polytechnic Bhopal"
+    },
+    {
+      "src": "assets/images/documentary-webp/doc-13-lg.webp",
+      "thumb": "assets/images/documentary-webp/doc-13-md.webp",
+      "alt": "Behind the Lens Study — Photographer with tripod at twilight"
+    }
+  ]
+}
